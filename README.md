@@ -11,16 +11,16 @@ To build and evaluate multiple classification models to accurately detect and cl
 
 Arrhythmia-Classification/
 │
-├── data_loader.py            # Data loading and preprocessing
-├── ml_model.py               # Classical ML model definitions
-├── dl_model.py               # Deep learning model (placeholder)
-├── evaluation.py             # Model evaluation, plotting, and saving results
-├── config.py                 # Configuration and paths
-├── main.py                   # Main script to run full pipeline
-├── README.md                 # This file
-└── requirements.txt          # Python dependencies
-⚙️ Requirements
-Make sure you have these packages installed:
+├── data_loader.py            # Data loading and preprocessing  
+├── ml_model.py               # Classical ML model definitions  
+├── dl_model.py               # Deep learning model (placeholder)  
+├── evaluation.py             # Model evaluation, plotting, and saving results  
+├── config.py                 # Configuration and paths  
+├── main.py                   # Main script to run full pipeline  
+├── README.md                 # This file  
+└── requirements.txt          # Python dependencies  
+⚙️ Requirements  
+Make sure you have these packages installed:  
 
 bash
 
