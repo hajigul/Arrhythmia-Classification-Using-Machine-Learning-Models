@@ -1,0 +1,48 @@
+Model: KNN
+Train Accuracy: 0.6427
+Test Accuracy: 0.6374
+Train Recall: 0.6374
+Test Recall: 0.6374
+Train Precision: 0.5862
+Test Precision: 0.5862
+--------------------------------------------------
+Model: Logistic Regression
+Train Accuracy: 1.0000
+Test Accuracy: 0.7473
+Train Recall: 0.7473
+Test Recall: 0.7473
+Train Precision: 0.7341
+Test Precision: 0.7341
+--------------------------------------------------
+Model: SVM Linear
+Train Accuracy: 0.8809
+Test Accuracy: 0.7802
+Train Recall: 0.7802
+Test Recall: 0.7802
+Train Precision: 0.7356
+Test Precision: 0.7356
+--------------------------------------------------
+Model: Kernelized SVM
+Train Accuracy: 0.8476
+Test Accuracy: 0.7692
+Train Recall: 0.7692
+Test Recall: 0.7692
+Train Precision: 0.6888
+Test Precision: 0.6888
+--------------------------------------------------
+Model: Decision Tree
+Train Accuracy: 0.8421
+Test Accuracy: 0.7253
+Train Recall: 0.7253
+Test Recall: 0.7253
+Train Precision: 0.6766
+Test Precision: 0.6766
+--------------------------------------------------
+Model: Random Forest
+Train Accuracy: 1.0000
+Test Accuracy: 0.7363
+Train Recall: 0.7363
+Test Recall: 0.7363
+Train Precision: 0.6610
+Test Precision: 0.6610
+--------------------------------------------------
